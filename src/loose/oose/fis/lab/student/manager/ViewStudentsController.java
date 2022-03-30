@@ -6,6 +6,8 @@ import javafx.fxml.FXML;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
+import loose.oose.fis.lab.student.manager.model.Student;
+
 public class ViewStudentsController {
 
     @FXML
